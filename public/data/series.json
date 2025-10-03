@@ -1,2 +1,21 @@
-[]
-
+[
+  {
+    "id": 1704372000001,
+    "title": "Ejemplo de Serie",
+    "description": "Una serie de ejemplo",
+    "year": "2024",
+    "genre": "Drama",
+    "thumbnail": "https://via.placeholder.com/300x200?text=Serie",
+    "episodes": [
+      {
+        "id": 1704372000002,
+        "season": 1,
+        "episode": 1,
+        "epTitle": "Episodio Piloto",
+        "epDescription": "El primer episodio",
+        "duration": "45 min",
+        "videoUrl": "https://example.com/episode1"
+      }
+    ]
+  }
+]
