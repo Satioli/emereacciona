@@ -2,7 +2,7 @@
   "name": "twitch-content-repository",
   "version": "1.0.0",
   "description": "Repositorio de contenido multimedia visto en Twitch",
-  "homepage": "https://jjosu.github.io/emereacciona",
+  "homepage": "https://Satioli.github.io/emereacciona",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
