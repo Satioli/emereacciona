@@ -117,15 +117,15 @@ const ContentCard = ({ content, type }) => {
           <div className="card-meta">
             <div className="meta-item">
               <Star className="meta-icon" />
-              <span>{rating}/5</span>
+              <span>{rating || 'N/A'}/5</span>
             </div>
             <div className="meta-item">
               <Clock className="meta-icon" />
-              <span>{duration}</span>
+              <span>{duration || 'N/A'}</span>
             </div>
             <div className="meta-item">
               <Eye className="meta-icon" />
-              <span>{views}</span>
+              <span>{views || 'N/A'}</span>
             </div>
           </div>
           
@@ -184,15 +184,15 @@ const ContentCard = ({ content, type }) => {
         <div className="card-meta">
           <div className="meta-item">
             <Star className="meta-icon" />
-            <span>{rating}/5</span>
+            <span>{rating || 'N/A'}/5</span>
           </div>
           <div className="meta-item">
             <Clock className="meta-icon" />
-            <span>{duration}</span>
+            <span>{duration || 'N/A'}</span>
           </div>
           <div className="meta-item">
             <Eye className="meta-icon" />
-            <span>{views}</span>
+            <span>{views || 'N/A'}</span>
           </div>
         </div>
         

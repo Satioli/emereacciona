@@ -5,18 +5,45 @@ import { Search, Filter, Film } from 'lucide-react';
 import './ContentPage.css';
 
 const Movies = () => {
-  const { peliculas } = useContent();
+  const { peliculas, loading, error } = useContent();
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedGenre, setSelectedGenre] = useState('');
 
-  const genres = ['Todos', ...Array.from(new Set(peliculas.map(m => m.genre)))];
 
-  const filteredMovies = peliculas.filter(movie => {
+  const genres = peliculas && peliculas.length > 0 ? ['Todos', ...Array.from(new Set(peliculas.map(m => m.genre)))] : ['Todos'];
+
+  const filteredMovies = peliculas && peliculas.length > 0 ? peliculas.filter(movie => {
     const matchesSearch = movie.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
                          movie.description.toLowerCase().includes(searchTerm.toLowerCase());
     const matchesGenre = selectedGenre === '' || selectedGenre === 'Todos' || movie.genre === selectedGenre;
     return matchesSearch && matchesGenre;
-  });
+  }) : [];
+
+  if (loading) {
+    return (
+      <div className="content-page">
+        <div className="container">
+          <div className="loading-container">
+            <div className="loading-spinner"></div>
+            <p>Cargando películas...</p>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="content-page">
+        <div className="container">
+          <div className="error-container">
+            <h3>Error al cargar las películas</h3>
+            <p>{error}</p>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="content-page">
