@@ -1,0 +1,177 @@
+.home {
+  padding: 20px 0;
+}
+
+.stat-icon {
+  width: 2rem;
+  height: 2rem;
+  color: #ff6b6b;
+  margin-bottom: 10px;
+}
+
+.section-count {
+  margin-top: 15px;
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 500;
+}
+
+.login-reminder {
+  background: linear-gradient(135deg, rgba(255, 107, 107, 0.1), rgba(72, 52, 212, 0.1));
+  border: 1px solid rgba(255, 107, 107, 0.3);
+  border-radius: 12px;
+  padding: 16px 20px;
+  margin: 30px 0;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+}
+
+.login-reminder:hover {
+  border-color: rgba(255, 107, 107, 0.5);
+  box-shadow: 0 8px 25px rgba(255, 107, 107, 0.2);
+}
+
+.reminder-icon {
+  width: 20px;
+  height: 20px;
+  color: #ff6b6b;
+  flex-shrink: 0;
+}
+
+.reminder-content {
+  flex: 1;
+}
+
+.reminder-text {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+.reminder-link {
+  color: #ff6b6b;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.reminder-link:hover {
+  color: #ff5252;
+  text-decoration: underline;
+}
+
+.featured-section {
+  margin-top: 60px;
+}
+
+.featured-title {
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 30px;
+  background: linear-gradient(45deg, #ff6b6b, #4834d4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.featured-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 25px;
+}
+
+.featured-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.featured-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+  border-color: rgba(255, 107, 107, 0.5);
+}
+
+.featured-image {
+  height: 180px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.play-icon {
+  width: 3rem;
+  height: 3rem;
+  color: white;
+  opacity: 0.8;
+  transition: all 0.3s ease;
+}
+
+.featured-card:hover .play-icon {
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+.featured-content {
+  padding: 20px;
+}
+
+.featured-content h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: white;
+}
+
+.featured-content p {
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 10px;
+  font-size: 0.9rem;
+}
+
+.featured-tag {
+  background: linear-gradient(45deg, #ff6b6b, #ee5a24);
+  color: white;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+@media (max-width: 768px) {
+  .featured-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .featured-title {
+    font-size: 1.5rem;
+  }
+
+  .login-reminder {
+    padding: 12px 16px;
+    margin: 20px 0;
+    gap: 10px;
+  }
+
+  .reminder-text {
+    font-size: 0.9rem;
+  }
+
+  .reminder-icon {
+    width: 18px;
+    height: 18px;
+  }
+} 

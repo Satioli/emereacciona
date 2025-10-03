@@ -1,0 +1,75 @@
+.admin-panel-container {
+  background: rgba(255,255,255,0.08);
+  border-radius: 16px;
+  padding: 2rem 2.5rem;
+  margin: 2rem auto;
+  max-width: 700px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.10);
+}
+.admin-panel-container h1 {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.admin-tabs {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+.admin-tab {
+  background: #22223b;
+  color: #fff;
+  border: none;
+  border-radius: 8px 8px 0 0;
+  padding: 0.7rem 1.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.admin-tab.active, .admin-tab:hover {
+  background: #4834d4;
+}
+.admin-tab-content {
+  background: rgba(0,0,0,0.10);
+  border-radius: 0 0 12px 12px;
+  padding: 2rem 1.5rem;
+  color: #fff;
+  min-height: 200px;
+}
+.admin-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+.admin-form input, .admin-form select {
+  flex: 1 1 200px;
+  padding: 0.6rem 1rem;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+.admin-form button {
+  background: #4834d4;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.7rem 1.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.admin-form button:hover {
+  background: #372fa6;
+}
+.admin-tab-content ul {
+  margin-top: 0.5rem;
+  padding-left: 1.2rem;
+  color: #fff;
+}
+.admin-tab-content li {
+  margin-bottom: 0.3rem;
+}
