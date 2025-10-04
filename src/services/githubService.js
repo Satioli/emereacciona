@@ -5,7 +5,7 @@ export const readFileFromGitHub = async (filePath) => {
   try {
     console.log('Leyendo archivo:', filePath);
     const fileName = filePath.split('/').pop();
-    const url = `/data/${fileName}`;
+    const url = `https://satioli.github.io/emereacciona/data/${fileName}`;
     
     console.log('URL de carga:', url);
     
