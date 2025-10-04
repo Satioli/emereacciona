@@ -6,6 +6,17 @@
     "genre": "shonen",
     "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2M4YzdjM2EtN2JjNC00YTJkLTliZTItZmY1MzBlNWFkZWIxXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
     "id": 1759537027608,
-    "episodes": []
+    "episodes": [
+      {
+        "id": 1759539622508,
+        "season": 1,
+        "episode": 1,
+        "epTitle": "Yo diría que así inicia el amor",
+        "epDescription": "La estudiante Momo cree en fantasmas, pero no en extraterrestres. Un día discute con un compañero obsesionado con ovnis y escéptico de los espíritus.",
+        "duration": "26 min",
+        "videoUrl": "https://app.emereacciones.com/files/Reacciones/DAN%20DA%20DAN/1.%20Dan%20da%20dan%20(1).mp4",
+        "thumbnail": "https://occ-0-659-114.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZefvDLTCy4ykLkq2SX0-YdGIGVZf8M-zw8dlIzzyVS2HOikq2X3btOxIbutM_Ar0vMCejceLwXhKm8na38XQ6HgZjBO2dFmLWqa58VHWLQ8pjHnhHKoTLhs.webp?r=894"
+      }
+    ]
   }
 ]
