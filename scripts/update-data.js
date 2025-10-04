@@ -57,7 +57,58 @@ function readLocalStorageData() {
   }
 ]`,
     novelas: `[]`,
-    anime: `[]`
+    anime: `[
+  {
+    "title": "Dan Da Dan",
+    "description": "Dos adolescentes deciden probar si los fantasmas o los álienes existen y terminan enfrentando aterradoras amenazas paranormales, recibiendo superpoderes y, tal vez, enamorándose.",
+    "year": "2024",
+    "genre": "shonen",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2M4YzdjM2EtN2JjNC00YTJkLTliZTItZmY1MzBlNWFkZWIxXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+    "id": 1759537027608,
+    "episodes": [
+      {
+        "id": 1759539622508,
+        "season": 1,
+        "episode": 1,
+        "epTitle": "Yo diría que así inicia el amor",
+        "epDescription": "La estudiante Momo cree en fantasmas, pero no en extraterrestres. Un día discute con un compañero obsesionado con ovnis y escéptico de los espíritus.",
+        "duration": "26 min",
+        "videoUrl": "https://app.emereacciones.com/files/Reacciones/DAN%20DA%20DAN/1.%20Dan%20da%20dan%20(1).mp4",
+        "thumbnail": "https://occ-0-659-114.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZefvDLTCy4ykLkq2SX0-YdGIGVZf8M-zw8dlIzzyVS2HOikq2X3btOxIbutM_Ar0vMCejceLwXhKm8na38XQ6HgZjBO2dFmLWqa58VHWLQ8pjHnhHKoTLhs.webp?r=894"
+      },
+      {
+        "id": 1759541242014,
+        "season": 1,
+        "episode": 2,
+        "epTitle": "Eso es un extraterrestre, ¿no?",
+        "epDescription": "Momo lleva a Ken a su casa y decide llamarlo Okarun. Sin embargo, un extraterrestre gigante aparece y los ataca de repente.",
+        "duration": "26 min",
+        "videoUrl": "https://app.emereacciones.com/files/Reacciones/DAN%20DA%20DAN/2.%20Dan%20da%20dan%20(2).mp4",
+        "thumbnail": "https://occ-0-659-114.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZdfJwt6LkahK3o2BRaK3YPJE_gVOVKARVGdvh6T5vliChnfF_IJsdBZVfv8W7TnpS1xge9_jkS3Z4Kj1FPywln2hq0xx-qjTkF0KgsCtp_sBarKHQoHN6-M.webp?r=4ee"
+      },
+      {
+        "id": 1759542739503,
+        "season": 1,
+        "episode": 3,
+        "epTitle": "Abuela contra abuela",
+        "epDescription": "La abuela de Momo suprime temporalmente el espíritu maligno dentro de Okarun y les dice que jugar un juego puede ser la clave para derrotarlo para siempre.",
+        "duration": "25 min",
+        "videoUrl": "https://app.emereacciones.com/files/Reacciones/DAN%20DA%20DAN/3.%20Dan%20da%20dan%20(3).mp4",
+        "thumbnail": "https://occ-0-659-114.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRip3_Hb4qMW3uaxx5FnaxdJ4tTQbBwVdSweXOSHn0TYjN4JDasshMaGHkx605qbJeZw0j81OEResHrUZDW-hmIDA_-Glc1ZHFQ6o0jvEuNGoSDGvPrqoRNz.webp?r=4b2"
+      },
+      {
+        "id": 1759547538259,
+        "season": 1,
+        "episode": "4 a 6",
+        "epTitle": "Mandamos a volar a la Turbo Abuela",
+        "epDescription": "Okarun y Momo llegan al túnel para enfrentarse a Turbo Abuela.",
+        "duration": "1h 15 min",
+        "videoUrl": "https://app.emereacciones.com/files/Reacciones/DAN%20DA%20DAN/4.%20Dan%20da%20dan%20(4%20-%206).mp4",
+        "thumbnail": "https://occ-0-659-114.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTD4xv6PAhbVyAIj73vFoFdjzMgniCqkX2IoVRK_UZMBGqZ6aMcwh72Z9ONBi0ShF5_g_nCsvSMzsSBYqAIO44FFm7Os4gCbbXcHb7Ye_L3AklItponyBknx.webp?r=aee"
+      }
+    ]
+  }
+]`
   };
   
   return localStorageData;
