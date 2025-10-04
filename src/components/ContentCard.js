@@ -14,8 +14,8 @@ const ContentCard = ({ content, type }) => {
     thumbnail,
     year,
     genre,
-    episode = null,
-    season = null
+    episode = content.episode || null,
+    season = content.season || null
   } = content;
 
   const displayTitle = content.title || content.epTitle || content.chTitle || title;
@@ -46,6 +46,8 @@ const ContentCard = ({ content, type }) => {
     if (episode && season) return true;
     if (content.chapter) return true;
     if (type === 'peliculas') return true;
+    // Para episodios de anime, también son reproducibles directamente
+    if (content.episode && content.season) return true;
     return false;
   };
 
