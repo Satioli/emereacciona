@@ -9,7 +9,7 @@
     "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/1.%20X-men.mp4",
     "id": 1759534096039
   },
-    {
+  {
     "title": "X-Men 2",
     "description": "Cuando el coronel antimutantes William Stryker secuestra al Profesor X y ataca su escuela, los X-Men deben aliarse con su archienemigo Magneto para detenerlo.",
     "year": "2003",
@@ -18,5 +18,35 @@
     "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2RhYWViOTctNTlkOS00NDBkLThmMWMtNjlhY2U4YjliM2U5XkEyXkFqcGc@._V1_FMjpg_UY720_.jpg",
     "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/2.%20X-men%202.mp4",
     "id": 1759966072990
+  },
+  {
+    "id": 1760060937357,
+    "title": "X-men 3",
+    "description": "El Gobierno desarrolla una cura para las mutaciones, y Jean Gray se convierte en un personaje más oscuro e incontrolable llamado Fénix que se alía con Magneto, lo que provoca una escalada en una batalla sin cuartel para los X-Men.",
+    "year": "2006",
+    "genre": "Accion",
+    "duration": "1h 46 min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjcyNWU3ZjAtZDE5Yi00N2UxLThmODAtZTBhMDAzM2M5MmMxXkEyXkFqcGc@._V1_FMjpg_UX720_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/3.%20X-men%203.mp4"
+  },
+  {
+    "id": 1760061073568,
+    "title": "X-Men Origenes: Wolverine",
+    "description": "Los primeros años de James Logan, su rivalidad con su hermano Victor Creed, su servicio en el equipo de fuerzas especiales Equipo X y su transformación en el mutante Wolverine.",
+    "year": "2009",
+    "genre": "Accion",
+    "duration": "1h 48 min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDJlZTI2YTEtMzViMC00MGNjLWI5ZmUtMzA1MTQxOTNkMTBlXkEyXkFqcGc@._V1_FMjpg_UX692_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/4.%20X-Men%20Or%C3%ADgenes%20Wolverine.mp4"
+  },
+  {
+    "id": 1760061282486,
+    "title": "Venom",
+    "description": "Cuando Eddie Brock adquiere las capacidades de un simbionte, tendrá que liberar a su alter ego Venom para salvar su vida.",
+    "year": "2018",
+    "genre": "Aventura",
+    "duration": "1h 45 min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzExZThiNTctYTJiYi00YjY3LTk4M2EtOGM0ZWRmNzJmYzk3XkEyXkFqcGc@._V1_FMjpg_UY2778_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/10.%20Venom.mp4"
   }
 ]
