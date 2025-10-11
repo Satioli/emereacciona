@@ -1,0 +1,322 @@
+[
+  {
+    "title": "X-Men",
+    "description": "En un mundo donde los mutantes (humanos superpoderosos evolucionados) existen y son discriminados, dos grupos se forman para un choque inevitable: la supremacista Hermandad y los pacifistas",
+    "year": "2000",
+    "genre": "Accion",
+    "duration": "2h 14 min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTVjY2E2YjgtYmUxOS00ZDI1LWEwYzctYjAxMDIzOGViZWYyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/1.%20X-men.mp4",
+    "id": 1759534096039
+  },
+  {
+    "title": "X-Men 2",
+    "description": "Cuando el coronel antimutantes William Stryker secuestra al Profesor X y ataca su escuela, los X-Men deben aliarse con su archienemigo Magneto para detenerlo.",
+    "year": "2003",
+    "genre": "Accion",
+    "duration": "2h 10 min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2RhYWViOTctNTlkOS00NDBkLThmMWMtNjlhY2U4YjliM2U5XkEyXkFqcGc@._V1_FMjpg_UY720_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/2.%20X-men%202.mp4",
+    "id": 1759966072990
+  },
+  {
+    "id": 1760060937357,
+    "title": "X-men 3",
+    "description": "El Gobierno desarrolla una cura para las mutaciones, y Jean Gray se convierte en un personaje más oscuro e incontrolable llamado Fénix que se alía con Magneto, lo que provoca una escalada en una batalla sin cuartel para los X-Men.",
+    "year": "2006",
+    "genre": "Accion",
+    "duration": "1h 46 min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjcyNWU3ZjAtZDE5Yi00N2UxLThmODAtZTBhMDAzM2M5MmMxXkEyXkFqcGc@._V1_FMjpg_UX720_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/3.%20X-men%203.mp4"
+  },
+  {
+    "id": 1760061073568,
+    "title": "X-Men Origenes: Wolverine",
+    "description": "Los primeros años de James Logan, su rivalidad con su hermano Victor Creed, su servicio en el equipo de fuerzas especiales Equipo X y su transformación en el mutante Wolverine.",
+    "year": "2009",
+    "genre": "Accion",
+    "duration": "1h 48 min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDJlZTI2YTEtMzViMC00MGNjLWI5ZmUtMzA1MTQxOTNkMTBlXkEyXkFqcGc@._V1_FMjpg_UX692_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/4.%20X-Men%20Or%C3%ADgenes%20Wolverine.mp4"
+  },
+  {
+    "id": 1760061282486,
+    "title": "Venom",
+    "description": "Cuando Eddie Brock adquiere las capacidades de un simbionte, tendrá que liberar a su alter ego Venom para salvar su vida.",
+    "year": "2018",
+    "genre": "Aventura",
+    "duration": "1h 45 min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzExZThiNTctYTJiYi00YjY3LTk4M2EtOGM0ZWRmNzJmYzk3XkEyXkFqcGc@._V1_FMjpg_UY2778_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/10.%20Venom.mp4"
+  },
+  {
+    "id": 1760066752077,
+    "title": "Ironman",
+    "description": "Tras de estar cautivo en una cueva afgana, el multimillonario ingeniero Tony Stark crea una armadura única para luchar contra el mal.",
+    "year": "2008",
+    "genre": "Aventura",
+    "duration": "2h 3min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_FMjpg_UY2048_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/12.%20IRONMAN.mp4"
+  },
+  {
+    "id": 1760067188604,
+    "title": "El increíble Hulk",
+    "description": "Bruce Banner, un científico que huye del gobierno de los Estados Unidos, debe encontrar una cura para el monstruo en el que se convierte cada vez que pierde los nervios.",
+    "year": "2008",
+    "genre": "Accion",
+    "duration": "1h 48 min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjU0ODFiZTItOGE5Ny00MTg2LTgyN2QtYzg0MmQxZTU3OGFhXkEyXkFqcGc@._V1_FMjpg_UX215_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/13.%20EL%20INCREIBLE%20HULK.mp4"
+  },
+  {
+    "id": 1760067315581,
+    "title": "Venom Carnage liberado",
+    "description": "Eddie Brock intenta relanzar su carrera entrevistando al asesino en serie Cletus Kasady, que se convierte en el huésped del simbionte Carnage y escapa de la cárcel tras una ejecución fallida",
+    "year": "2021",
+    "genre": "Aventura",
+    "duration": "1h 40min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDZlZDFlMjUtOWFlMC00OWI4LTgxNDgtMWVhNGQxYmQ5Mjc4XkEyXkFqcGc@._V1_FMjpg_UX960_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/11.%20Venom%20Carnage%20liberado.mp4"
+  },
+  {
+    "id": 1760067580862,
+    "title": "Ironman 2",
+    "description": "Con el mundo sabiendo que es Iron Man, Tony Stark debe lidiar tanto con su salud en declive como con un loco vengativo con vínculos con el legado de su padre.",
+    "year": "2010",
+    "genre": "Aventura",
+    "duration": "2h 10min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTk0MmFhNWEtNTljOC00ZjZkLWJmOGQtZTlkZTE4OGYzOTU2XkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/14.%20IRONMAN%202.mp4"
+  },
+  {
+    "id": 1760067694751,
+    "title": "Thor",
+    "description": "El poderoso pero arrogante dios Thor es expulsado de Asgard para vivir entre los humanos en Midgard (la Tierra), donde pronto se convierte en uno de sus mejores defensores.",
+    "year": "2011",
+    "genre": "Accion",
+    "duration": "1h 51min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjQ0MzM3N2YtOWI1OS00NmQyLTk5YzUtNjcwMTEwOGUxNzgzXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/15.%20THOR.mp4"
+  },
+  {
+    "id": 1760134297879,
+    "title": "X-Men: Primera generación",
+    "description": "En los años 60, los humanos con superpoderes Charles Xavier y Erik Lensherr trabajan juntos para encontrar otros como ellos, pero la búsqueda vengativa de Erik de un ambicioso mutante",
+    "year": "2011",
+    "genre": "Accion",
+    "duration": "2h 16min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDJmYjBkOWMtZGI3My00N2MxLWEyZGQtZDA2MGYzMDQ0Zjc3XkEyXkFqcGc@._V1_FMjpg_UX188_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/5.%20X-men-%20Primera%20Generaci%C3%B3n.mp4"
+  },
+  {
+    "id": 1760134420618,
+    "title": "Capitán América",
+    "description": "Steve Rogers, un soldado rechazado, se transforma en Capitán América tras tomar una dosis de suero del súper soldado. Pero ser Capitán América tiene un precio",
+    "year": "2011",
+    "genre": "Aventura",
+    "duration": "2h 2min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTMzMTM5MDgtOThmNS00Yzc1LTg3YjAtMzgwZjQzMGUzYmRlXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/16.%20CAPITAN%20AMERICA.mp4"
+  },
+  {
+    "id": 1760134521226,
+    "title": "Avengers",
+    "description": "Los héroes más poderosos de la Tierra deben unirse y aprender a luchar en equipo si quieren evitar que Loki y su ejército alienígena esclavicen a la humanidad.",
+    "year": "2012",
+    "genre": "Accion",
+    "duration": "2h 22min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGFkOGY2OGEtOGZkMi00OGUyLWJiNzUtMTM3MTNjZmNlMzIwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/17.%20AVENGERS.mp4"
+  },
+  {
+    "id": 1760134621439,
+    "title": "Ironman 3",
+    "description": "Cuando el mundo de Tony Stark es destrozado por un temible terrorista llamado el Mandarín, comienza una odisea de reconstrucción y venganza.",
+    "year": "2013",
+    "genre": "Accion",
+    "duration": "2h 8min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTczN2NkZTctNzhmNS00ZmI1LWI1ZjAtNGQxNjI4MTNkM2JmXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/18.%20Ironman%203.mp4"
+  },
+  {
+    "id": 1760134845775,
+    "title": "Thor 2",
+    "description": "Thor se embarca en un viaje tan peligroso como personal para enfrentarse a un enemigo que ni Odín puede vencer, y se reencuentra con la doctora Jane Foster.",
+    "year": "2013",
+    "genre": "Accion",
+    "duration": "1h 51min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWQ3YmM3MjMtOTMyZS00NjY1LWI0ODItNzUxYTFjMDhhYjI5XkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/19.%20Thor%202.mp4"
+  },
+  {
+    "id": 1760134973097,
+    "title": "Capitán América y El Soldado de Invierno",
+    "description": "A Steve Rogers le cuesta acostumbrarse al mundo moderno. Forma equipo con la Viuda Negra para luchar contra una nueva amenaza histórica: un asesino conocido como el Soldado de Invierno.",
+    "year": "2014",
+    "genre": "Accion",
+    "duration": "2h 13min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmJlZGUyYjAtNjQxZS00MjRhLTg5NzYtNDQ1YWM0YmIzZDAyXkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/20.%20Capitan%20Am%C3%A9rica%20y%20el%20Soldado%20del%20Invierno.mp4"
+  },
+  {
+    "id": 1760135190864,
+    "title": "Guardianes de la Galaxia",
+    "description": "Un grupo de criminales intergalácticos debe unirse para detener a un guerrero fanático con planes para eliminar el universo.",
+    "year": "2014",
+    "genre": "Aventura",
+    "duration": "1h 58min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWI0NTNlN2MtMWRjNy00M2QwLWFlZTgtZTlkMTZiYTU2NTk1XkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/21.%20Guardianes%20de%20la%20Galaxia.mp4"
+  },
+  {
+    "id": 1760135300066,
+    "title": "Avengers : La era de Ultrón",
+    "description": "Cuando Tony Stark y Bruce Banner intentan lanzar el programa por la paz llamado Ultrón, las cosas salen mal y dependeremos de los héroes más poderosos de la Tierra para frenar el plan",
+    "year": "2015",
+    "genre": "Accion",
+    "duration": "2h 19min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTM0NDBkZWEtYWI4Zi00ZTg3LTg1YjQtNDRiM2Y3MjNjZTVkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/22.%20Avengers%20Era%20de%20Ultron.mp4"
+  },
+  {
+    "id": 1760135389580,
+    "title": "Ant-Man",
+    "description": "El ladrón de guante blanco Scott Lang, equipado con un súper traje con la asombrosa capacidad de reducir el tamaño pero aumentar la fuerza de quien lo lleva, debe aceptar a su héroe interior",
+    "year": "2015",
+    "genre": "Comedia",
+    "duration": "1h 56min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODQ0MGFiYmUtNjE0My00NWIxLThmZmEtMmNhNzdkYmUxMGMyXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/23.%20Ant%20man.mp4"
+  },
+  {
+    "id": 1760135485991,
+    "title": "Capitán América: Civil War",
+    "description": "La implicación política en los asuntos de los Vengadores causa una ruptura entre Iron Man y el Capitán América.",
+    "year": "2016",
+    "genre": "Accion",
+    "duration": "2h 25min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmJmMGQ4YjItZWJhMS00OTAwLTgxMmQtZDNiZTAzYTk5OWEwXkEyXkFqcGc@._V1_QL75_UY562_CR28,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/24.%20Civil%20War.mp4"
+  },
+  {
+    "id": 1760135586364,
+    "title": "Doctor Strange",
+    "description": "Durante un viaje de curación física y espiritual, un brillante neurocirujano se adentra en el mundo de las artes místicas.",
+    "year": "2016",
+    "genre": "Fantasia",
+    "duration": "1h 54min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/25.%20Dr.%20Strange.mp4"
+  },
+  {
+    "id": 1760135649433,
+    "title": "Guardianes de la Galaxia 2",
+    "description": "Los Guardianes deben luchar para mantener su recién encontrada familia unida cuando desentrañan el misterio del verdadero parentesco de Peter Quill.",
+    "year": "2017",
+    "genre": "Accion",
+    "duration": "2h 21min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTA4MGI3NzEtMzhhNS00NGZhLTg0YWYtYmZjNDExYTkxNmY3XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/26.%20Guardianes%20de%20la%20Galaxia%202.mp4"
+  },
+  {
+    "id": 1760135722353,
+    "title": "Spider-Man: Homecoming",
+    "description": "Peter Parker compagina su vida de estudiante ordinario de instituto en Queens con su alter ego de superhéroe, Spider-Man, y se encuentra tras la pista de una nueva amenaza que merodea",
+    "year": "2017",
+    "genre": "Aventura",
+    "duration": "2h 8min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/27.%20Spider-man%20Homecoming.mp4"
+  },
+  {
+    "id": 1760135870403,
+    "title": "Thor 3",
+    "description": "Thor está cautivo en el planeta Sakaar, y debe embarcarse en una carrera contra reloj para volver a Asgard y detener Ragnarök, la destrucción del mundo, a manos de la despiadada villana",
+    "year": "2017",
+    "genre": "Accion",
+    "duration": "2h 6min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjYzODAzMzktZDEzOS00Yjg1LWE5YWQtZDI1MTYyZmIwYmZlXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/28.%20Thor%203.mp4"
+  },
+  {
+    "id": 1760135951421,
+    "title": "Black Panther",
+    "description": "T'Challa, heredero al trono del escondido pero avanzado mundo de Wakanda, debe dar un paso al frente para guiar a su gente hacia un nuevo futuro y debe enfrentarse a un contendiente",
+    "year": "2018",
+    "genre": "Aventura",
+    "duration": "2h 9min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2MwZTRhMmYtYmE3OS00YTU0LWE1NTQtYTA5ZjczYjI5Y2IxXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/29.%20Black%20Panther.mp4"
+  },
+  {
+    "id": 1760151770026,
+    "title": "Avengers: Infinity War",
+    "description": "Los Avengers y sus aliados deberán estar dispuestos a sacrificarlo todo con el fin de derrotar a Thanos antes de que él ponga fin al universo.",
+    "year": "2018",
+    "genre": "Accion",
+    "duration": "2h 26min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGVkODYxMDEtODczZC00MjRiLTg3ZWYtZjgzN2QyMDBjZTUzXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/30.%20Avengers%20Infinity%20War.mp4"
+  },
+  {
+    "id": 1760151857049,
+    "title": "Ant-Man and the Wasp",
+    "description": "Mientras Scott Lang se convierte en un súper héroe y en un padre, el Dr. Hank Pym presentan una nueva misión urgente que presenta a Ant-Man luchando junto a La Avispa",
+    "year": "2018",
+    "genre": "Comedia",
+    "duration": "1h 56min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODVkY2ZmZTAtYzFhMi00YzZlLWE2YWMtMDBiYjY2OTU4ZWM0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/31.%20Ant-man%20y%20the%20Wasp.mp4"
+  },
+  {
+    "id": 1760151953217,
+    "title": "Capitana Marvel",
+    "description": "Carol Danvers se convierte en una de las heroínas más poderosas del universo cuando la Tierra de repente se encuentra en medio de una guerra galáctica entre dos razas alienígenas.",
+    "year": "2019",
+    "genre": "Ficcion",
+    "duration": "1h 57min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWE1OGE2YzMtMGUyYy00NGIwLThlZjItZGM5MGZlMTcyMjVlXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/32.%20Capitana%20Marvel.mp4"
+  },
+  {
+    "id": 1760152053869,
+    "title": "Avengers: Endgame",
+    "description": "Tras los devastadores sucesos de Avengers: Infinity War, el universo está en ruinas pero de los que quedan, los Avengers se unirán una vez más para deshacer la destrucción de Thanos",
+    "year": "2019",
+    "genre": "Accion",
+    "duration": "3h",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/33.%20Avengers%20Endgame.mp4"
+  },
+  {
+    "id": 1760152197594,
+    "title": "Spider-Man: Far from Home",
+    "description": "Tras los acontecimiento de Avengers: Endgame, Spider-Man deberá enfrentarse a nuevas amenazas en un mundo que ha cambiado para siempre.",
+    "year": "2019",
+    "genre": "Aventura",
+    "duration": "2h 5min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTU4MDI2YjgtZmJhYi00ZjFjLTlmZjktY2I0NjdlYjhiODA0XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/34.%20Spider-man%20Far%20From%20Home.mp4"
+  },
+  {
+    "id": 1760152274030,
+    "title": "Deadpool",
+    "description": "Luego de que experimentaran con él, un mercenario se vuelve inmortal pero feo, y se propone rastrear al hombre que arruinó su apariencia.",
+    "year": "2016",
+    "genre": "Comedia",
+    "duration": "1h 48min",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjc3NjFkZWYtOTFjNS00NjI1LTljNjgtNzE5MTJlNzlhMTljXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/35.%20Deadpool.mp4"
+  },
+  {
+    "id": 1760152372104,
+    "title": "Deadpool 2",
+    "description": "El mutante Wade Wilson junta un equipo de amigos mutantes para proteger a un chico con habilidades sobrenaturales, del brutal ciborg, Cable.",
+    "year": "2018",
+    "genre": "Comedia",
+    "duration": "2h",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWQzM2QxMmUtN2Y1YS00ODU1LTk0M2QtN2FhZjgyYWE5MWYwXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+    "videoUrl": "https://app.emereacciones.com/files/Reacciones/UNIVERSO%20MARVEL/36.%20Deadpool%202.mp4"
+  }
+]

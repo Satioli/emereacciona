@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emereacciona/static/css/main.7217dbe5.css",
+    "main.js": "/emereacciona/static/js/main.b5ed4b8b.js",
+    "index.html": "/emereacciona/index.html",
+    "main.7217dbe5.css.map": "/emereacciona/static/css/main.7217dbe5.css.map",
+    "main.b5ed4b8b.js.map": "/emereacciona/static/js/main.b5ed4b8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7217dbe5.css",
+    "static/js/main.b5ed4b8b.js"
+  ]
+}
